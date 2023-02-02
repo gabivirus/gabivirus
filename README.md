@@ -1,8 +1,8 @@
 <h3 align="left">Hi, i'm Gabriel Ribeiro from Brazil, i'm 19 years old, studying to become full-stack developer.</h3><br>
 <p>
-    I am currently studying Systems Development at Etec, wich i'm glad learning many tools, programming languages, frameworks...
-    I'm always searching for something new to lean.
-    Reach me to contribuite with your projects, if you have a question, or anything else.
+    I am currently studying Systems Development at Etec, wich i'm glad learning many tools, programming languages, frameworks...<br>
+    I'm always searching for something new to lean.<br>
+    Reach me to contribuite with your projects, if you have a question, or anything else.<br>
 </p>
 
 <div class="cotact" >
