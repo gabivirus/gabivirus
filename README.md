@@ -1,8 +1,3 @@
-<head>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Rajdhani&display=swap" rel="stylesheet">
-</head>
 <h3 align="left">Hi, i'm Gabriel Ribeiro from Brazil, i'm 19 years old, studying to become full-stack developer.</h3><br>
 <p>
     I am currently studying Systems Development at Etec, wich i'm glad learning many tools, programming languages, frameworks...<br>
