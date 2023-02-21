@@ -1,5 +1,5 @@
 <h3 align="left">Hi, i'm Gabriel Ribeiro from Brazil, i'm 19 years old, studying to become full-stack developer.</h3>
-<img src="" alt="Logo" width="40" height="40"/>
+<p align="center"><img src="logo.png" alt="Logo" width="60"/></p>
 <p>
     I am currently studying Systems Development at Etec, wich i'm glad learning many tools, programming languages, frameworks...<br>
     I'm always searching for something new to learn.<br>
