@@ -4,6 +4,7 @@
     I am currently studying Systems Development at Etec, wich i'm glad learning many tools, programming languages, frameworks...<br>
     I'm always searching for something new to learn.<br>
     Reach me to contribuite with your projects, if you have a question, or anything else.<br>
+    Here is a link to my project to store all content passed in class at etec: <a href="https://maize-motion-22f.notion.site/Etec-Notebook-a527a7223703423e8eab0b92b33aff1a" target="_blank">Etec Notebook</a>
 </p>
 
 <div class="cotact" >
@@ -20,10 +21,10 @@
 </div>
 
 
-<!--<div class="boards">
+<div class="boards">
     <hr>
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabivirus&show_icons=true&theme=tokyonight&title_color=f103db&text_color=d897c7&locale=en&layout=compact" alt="gabivirus" /></p>
-</div><!---->
+</div>
 
 <div class="languages">
     <hr>
