@@ -4,7 +4,7 @@
     I am currently studying Systems Development at Etec, wich i'm glad learning many tools, programming languages, frameworks...<br>
     I'm always searching for something new to learn.<br>
     Reach me to contribuite with your projects, if you have a question, or anything else.<br>
-    Here is a link of my project to store all content passed in class at etec: <a href="https://maize-motion-22f.notion.site/Etec-Notebook-a527a7223703423e8eab0b92b33aff1a" target="_blank">Etec Notebook</a>
+    Here is a link of my project to store all content passed in class at Etec: <a href="https://maize-motion-22f.notion.site/Etec-Notebook-a527a7223703423e8eab0b92b33aff1a" target="_blank">Etec Notebook</a>
 </p>
 
 <div class="cotact" >
