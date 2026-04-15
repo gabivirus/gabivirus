@@ -6,7 +6,6 @@
 
 <p align="left">
   I am currently pursuing a <strong>Bachelor's in Science and Technology</strong> at the Federal University of the ABC (UFABC). 
-  <br><br>
   Following the university's interdisciplinary model, I am qualifying to pursue dual degrees in <strong>Computer Science</strong> and <strong>Data Science</strong>.
 </p>
 
